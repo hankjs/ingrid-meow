@@ -1,0 +1,73 @@
+蓝帽角色设定 V1
+用途｜后续静态与动态表情包的统一角色参考
+
+01 识别特征
+
+剪影由蓝色大帽、短斗篷和矮圆身形组成。帽顶稍尖但要圆润，两侧是低位、向外展开的折片，位置在眼睛到脸颊之间。领口围到下颌，袖口宽、手只露一点。两只小脚从浅色下半身伸出，背后露一条浅色细尾，尾尖是小圆绒团。
+
+最容易认出来的三处是低位帽翼、角色左侧的单枚金扣，以及浅色圆脸里的大黑眼。正视图里，金扣位于画面右侧。
+
+02 比例与结构
+
+中立站姿以全高为 100 份。帽顶到下颌约占 65 份，斗篷下缘约在 90 份处，剩下是露出的浅色下身与两只短脚。帽宽约为角色全高的 85%，峰顶与折片都保留圆角。站姿肩和胯几乎看不出分界，手脚以圆角小块表达。以上是制作比例，允许因透视和挤压动作小幅变化。
+
+脸用一块暖奶油色圆形，两颊略饱满。额前的浅色波浪按短刘海处理，左右各留一绺逐渐变尖的浅色鬓发。眉毛短，眼睛是圆形亮眼白配大黑瞳，鼻子通常省略。腮红用两三道浅短线，嘴的形状随表情改变。
+
+斗篷由高围领、短宽袖和叠合的前襟构成。前襟下沿带两处浅折角，少量浅蓝短针脚集中在胸口和肩侧。背面保留大块蓝色轮廓和下缘折线。尾巴从斗篷下中央露出，尾长约为身宽三分之一，运动时可以弯曲。
+
+03 转面画法
+
+正面｜圆脸完整，帽翼两侧可见，前襟和两只短脚都看得见。
+四分之三｜近侧帽翼和脸颊更宽，远侧脸和帽翼收窄，保留金扣所在的一侧。
+侧面｜只读到一只完整眼睛。后脑保持饱满，袖子贴着矮身，细尾从后腰下方露出。
+背面｜帽顶和两侧帽翼保持同一个外轮廓。高领与斗篷背面连接，露出浅色脚与尾巴。金扣、脸和胸前针脚由帽子和身体遮挡。
+
+左右翻转素材时重新核对金扣。角色向没有扣子的一侧转成完全侧脸时，扣子会被遮住。尾巴从固定位置摆动，尾尖跟随身体的惯性。
+
+04 色彩与线条
+
+大面积以灰蓝为主，深蓝用于帽翼、领口与斗篷内折线。面部、鬓发和下身用暖浅色，金扣是小面积的哑金。轮廓使用深蓝黑，腮红偏低饱和暖粉。色号是去除原截图环境光后的制作参考，转面图同时作为明度与层次参考。
+
+灰蓝帽身与斗篷　#535F8C
+深蓝折面与围领　#394366
+暖奶油肤色　　　#F3DAD1
+浅色头发与下身　#F3E8DF
+哑金单扣　　　　#D4B66E
+浅暖粉颊线　　　#D58F84
+深色线稿与瞳孔　#16111B
+
+平涂配一层简洁阴影。外轮廓稍粗，面部和缝线略细。胸前针脚缩小后允许减到几笔，帽顶、低帽翼、圆脸、单扣和尾尖保留形状。
+
+05 表演方向
+
+默认神态是认真地打量，身体放松，嘴很小。好奇时先移瞳孔再偏头。开心时眉眼放松、嘴张开、袖口抬起。惊讶时眼睛睁圆，身子缩进高领。委屈时眉毛内端抬高，眼睛往上看，嘴角收紧。有点不满时压低内眉、让瞳孔侧看。困倦时眼皮半落，头略往前沉。
+
+全身动作通过压低、弹起、倾斜来表达。压低时斗篷变宽，抬手时用整块袖口表示方向，落地时袖子和尾巴比身体晚一点回位。大动作也保持帽顶、帽翼、前襟、金扣和尾根的位置关系。
+
+06 图稿与补全约定
+
+四张参考给出了正面、偏侧、侧向运动和背侧轮廓。完整的正后视、无遮挡的另一侧轮廓在原图里没有直接呈现。设定稿将鬓边浅色部分定义为头发，把尾根定在后腰中央，并把环境光下的蓝色归为室内外通用的灰蓝配色。角色姓名、物种和背景故事保持开放。
+
+07 配套图稿
+
+角色转面图.png｜左上正面，右上四分之三，左下角色左侧面，右下正背面。
+基础表情设定.png｜由左至右、由上至下为认真、开心、惊讶、委屈、不满、困倦。
+两个图稿使用相同的帽型、鬓发走向和金扣位置。转面图用于对照全身比例，表情图用于对照眼、眉、嘴的变化。
+
+08 绘图提示词
+
+图稿由 Codex 内置 ImageGen 绘制。
+
+转面图
+Create a clean full-body character model sheet for later 2D sticker production, deriving the same original blue-hooded little mascot from the four supplied screenshots. Artwork only. Use the first input for the front silhouette and facial features, the second for the head opening in exact profile and the tail root and shape, the third for the back construction, the fourth for cheek locks and robe sleeves. Remove all rooms, environment, lighting, shadows, scene perspective and poses. Keep the source's endearing compressed squashy animal-like proportions, not a human wearing a wizard outfit. Draw FOUR clearly distinct orthographic MODEL VIEWS of the same neutral standing character in a 2×2 grid on solid clean white, with generous gutters: TOP LEFT straight-on front; TOP RIGHT front three-quarter turned 35 degrees, nose pointing to the left of the page so the visible gold temple button is visible; BOTTOM LEFT exact 90-degree side profile looking toward the left of the page, with one eye, one visible temple button, bottom edge of robe and complete tail silhouette; BOTTOM RIGHT exact symmetrical back facing away, no face or hair opening visible, same coat hem and centered rear tail root, tiny tail tuft subtly visible to the right. The four views are exactly the same height and body size and maintain the same anatomy. Use a square sheet 1536 by 1536 if possible. No letters, numbers, frame, lines, captions, headers, panels, graph marks, color swatches or floor. All four complete drawings centered in their own quadrant with clear white margins.
+Character anatomy and design: broad five-sided soft triangular hood, with a gentle rounded apex and TWO low angular panel flaps projecting sideways at the level of the cheeks; they are thick low side panels of a blue hood, not ears that stand up, not horns. No pointed witch-hat tip. Dusty cornflower mid-blue hood (#53638E) with navy shadow folds (#354568), almost-black blue ink edges. Front hood opening shows a light cream rounded face, round white eyes with large nearly black pupils and a slim white ring, tiny charcoal sloping brows, tiny restrained neutral mouth, faint dusty rose cheek ticks. No distinct protruding nose. Framing the face is pale ivory hair: a soft row of rounded scallops on the forehead, two narrow pointed ivory locks hanging by the cheeks, one small muted-gold FLAT ROUND clasp at the CHARACTER'S LEFT temple (viewer's RIGHT in the front). Only one clasp on the entire character, stays on that temple in 3/4 and profile, not visible from behind. The hood and face together are nearly two thirds of the figure from crown to feet. Compact, low and rounded short body, very high broad blue collar wraps just under the cheeks. Short simple blue robe with wide short sleeves angled down, two small ivory mitten tips with no fingers, two small outline-defined center-front overlapping lapels with softly notched hem, a handful of muted desaturated blue embroidery dashes. Ivory rounded lower body gently visible beneath the robe as one small crescent, two stubby triangular toes, no human legs, no shoes. One single ivory narrow animal tail rooted centrally low on the back under the coat, lightly curved sideways, a small round teardrop tuft at the end; total tail length at most one third of the body width. Source 2D cel illustration with crisp rounded dark contours and clean muted two-step fill, minimal shading. No ornamental stars, props, accessories, magical symbols, text. Match the overall face size, hood side panels, and big round eyes in the screenshot. Explicitly front / three-quarter / full side / strict back.
+
+基础表情设定
+Draw an expression construction reference for the SAME blue-hooded original character in Image 1 (the newly drawn orthographic model sheet). Image 1 TOP LEFT is the sole authority for the design; Image 2 shows the personality and open mouth in the original reference. Make six front-view head-and-collar studies on an unmarked flat near-white canvas with SIX separate equal cells in a 3×2 grid, 1536x1024 landscape. Each full HOOD is visible, with both low sideways cheek panels, apex, and high blue collar. It looks like the exact same hood width and subtle peak, sleeve-free head crops, same ochre single disk and hair part. Place the ochre disk at image RIGHT, character's left temple in each face, with exactly one disk per face. Maintain the exact source's chunky flat cartoon line weight and two-tone gray-blue palette, ivory side locks, pale scalloped bangs, warm round face, pink cheek ticks, black pupils and minimal nose. Use no hands, no limbs, no stickers, no reactions marks, no symbols, no background, no realistic lighting, no titles or text, no numbers, no borders. Face visual variations only, same camera and same rim width on every study. All heads centered with broad gutter gaps.
+Order from left to right, top then bottom:
+(1) neutral curious or quietly focused, both eyes open, tiny inverted-v mouth, brows slightly sloped.
+(2) bright happy, eyes wide and eyebrows lifted, cheeks up, open cheerful smiling mouth with simple pink inner shape; retain round pupils.
+(3) startled, raised eyebrows and big eyes, pupil size reduced modestly, small round O mouth.
+(4) crestfallen, internal brow edges turn upward, shiny large eyes glance slightly up to the left, tiny compressed wobble-mouth. No giant tears.
+(5) playfully annoyed, short inner brows dip low, eyes partly narrowed with a side-eye, tiny pout.
+(6) drowsy, half closed droopy lids, both pupils look down, tiny soft yawn. Same silhouette in each, clearly differentiated through eyelids, brow, mouth and gaze. Off-white behind everything. Clean existing character art style.
