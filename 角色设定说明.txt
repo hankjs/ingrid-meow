@@ -1,4 +1,4 @@
-英格丽德喵角色设定 V1
+英格丽德喵角色设定 V2
 用途｜后续静态与动态表情包的统一角色参考
 
 01 识别特征
@@ -18,11 +18,11 @@
 03 转面画法
 
 正面｜圆脸完整，帽翼两侧可见，前襟和两只短脚都看得见。
-四分之三｜近侧帽翼和脸颊更宽，远侧脸和帽翼收窄，保留金扣所在的一侧。
+四分之三｜近侧帽翼和脸颊更宽，远侧脸和帽翼收窄。角色左侧朝向镜头时可见金扣。
 侧面｜只读到一只完整眼睛。后脑保持饱满，袖子贴着矮身，细尾从后腰下方露出。
 背面｜帽顶和两侧帽翼保持同一个外轮廓。高领与斗篷背面连接，露出浅色脚与尾巴。金扣、脸和胸前针脚由帽子和身体遮挡。
 
-左右翻转素材时重新核对金扣。角色向没有扣子的一侧转成完全侧脸时，扣子会被遮住。尾巴从固定位置摆动，尾尖跟随身体的惯性。
+左右翻转素材时重新核对金扣。只露出角色右侧的完整侧脸时，左侧金扣被遮住。尾巴从固定位置摆动，尾尖跟随身体的惯性。
 
 04 色彩与线条
 
@@ -46,7 +46,7 @@
 
 06 图稿与补全约定
 
-四张参考给出了正面、偏侧、侧向运动和背侧轮廓。完整的正后视、无遮挡的另一侧轮廓在原图里没有直接呈现。设定稿将鬓边浅色部分定义为头发，把尾根定在后腰中央，并把环境光下的蓝色归为室内外通用的灰蓝配色。角色名为「英格丽德喵」，物种和背景故事保持开放。
+初版采用的四张截图给出了正面、偏侧、侧向运动和背侧轮廓。完整的正后视、无遮挡的另一侧轮廓在这四张截图里没有直接呈现。设定稿将鬓边浅色部分定义为头发，把尾根定在后腰中央，并把环境光下的蓝色归为室内外通用的灰蓝配色。角色名为「英格丽德喵」，物种和背景故事保持开放。
 
 07 配套图稿
 
@@ -54,9 +54,59 @@
 基础表情设定.png｜由左至右、由上至下为认真、开心、惊讶、委屈、不满、困倦。
 两个图稿使用相同的帽型、鬓发走向和金扣位置。转面图用于对照全身比例，表情图用于对照眼、眉、嘴的变化。
 
-08 绘图提示词
+08 动态设定
 
-图稿由 Codex 内置 ImageGen 绘制。
+动作性格｜发现目标时先盯住，确认方向后突然加速。大帽和圆脸带着矮身一起往前，宽袖与短脚负责撑、蹬、收，尾尖最后跟上。追到目标时可由咧嘴切成睁圆眼、收小嘴，再做短停顿。视频里的红点可替换成画外视线目标。
+
+结构与重心
+
+- 以躯干中心为位移和旋转基准，以短脚、袖口或躯干侧面标记接触点。侧倾和倒置时，帽、脸、领和身体作为一个整体换朝向，先画外轮廓和接触点，再补近侧与远侧的遮挡。
+- 蓄力和着地时主要压扁下身与斗篷，帽身仍保留圆帽顶和低位帽翼。伸展靠身体前倾、袖口伸出和后脚蹬直，短肢长度沿用转面图。近侧短脚可露一角，远侧脚可收在斗篷下摆后。
+- 金扣随角色左侧转入或转出视野，倒置时也沿用同一个锚点。前襟随胸口转过，尾根固定于后腰中央。急转时尾尖先留在旧方向，回正后再摆回。普通动作里可让斗篷下摆和尾尖比躯干晚 1–3 帧收稳。
+
+节奏建议｜以下以 24 fps 计，供绘制和预演起稿。各段可按表情强度和目标距离调整，原片时码见第 09 节。
+
+低伏追跑｜约 8–12 帧一轮。
+抬眼锁定 → 身体前栽、低伏撑住 → 袖口向前够、后脚向后蹬 → 收脚回到斗篷下，接下一轮。片中从正面低伏逐渐转出侧面，帽顶起伏小，身体在团紧和拉开之间反复，尾尖在伸展时跟在后方。侧视制作时以近侧袖口和短脚交替表现接力，伸展与收身各留一个清楚的剪影。原地循环让脚在支撑阶段从身前划到身后。有位移时把着力点锁在地面坐标上，迈步长度和前进速度一起调。起跑可先加一拍正面注视，接低伏姿势再进循环。
+
+短跳与落地｜约 12–18 帧，蓄力 3–4 帧、离地与飞行 6–9 帧、触地回弹 3–5 帧。
+收脚压低 → 视线、袖口朝跳跃方向抬起 → 后脚离开支撑面 → 空中把脚收近身下 → 接触后再压低、回弹。向前跳时把躯干画成一条向前的弧线，最高点稍放慢，下降时加快。落向软垫可先团身、让近侧袖口和下身贴到垫面，短暂停留后再起跳；落向平地可用短脚先接地，袖口随身体压低。原片上墙时脸和近侧袖口先朝上，双脚离地后拖在后下方，适合上扑、够高处的动作。
+
+走、转向与刹停｜小步走约 12–16 帧一轮，急转或短刹约 6–10 帧。
+近距离移动可用左右短脚交替承重，身体轻轻向承重侧歪，袖口只摆小幅。地面换向先移瞳孔，再带头、躯干和下一步依次转过去，尾巴划过旧路径。空中换向让身体先倾斜，以短弧从背面转出侧脸，收袖和收脚能让转向读得更快。刹停时躯干先减速，脸和袖口继续向目标探一小截再收住，最后留尾尖一摆；片尾门边定住的侧脸可作急停表现参考。
+
+翻身｜墙边空中翻身约 14–18 帧，至少画清五个姿势。
+侧倾露出脸 → 收袖收脚、身体团圆 → 帽顶向下、脚与尾根在上 → 转到背帽遮脸 → 回到侧脸并伸脚接住下一拍。原片过倒置时帽顶、脸和浅色下身的位置连续换过去，适合用中间的倒置和背面姿势带出翻转。普通地面版本可补画成从侧躺借袖口撑地、滚过背部再跪伏或站起，轮流用侧身、背部和短脚承重，帽翼随贴地压一点后弹回。
+
+夸张追逐｜原片有贴墙快速上行、连续空中换向和门边的长拍。做成追逐表情包时，可用墙、转角或落点给每次改向一个明确位置，保留蹬离、短弧、再蹬离的节拍。常规跑跳用地面着力和短滞空，贴墙和长滞空用于夸张场景。
+
+制作检查
+
+- 用门框、墙角、地缝或沙发边判断位移。镜头跟拍时角色可留在画面中央，仍需在场景坐标里画出真实路径。动作设定图里各姿势以 424 像素的固定列距排列，接触姿势按同一支撑线对齐，空中姿势保留相对高度。实际位移以原片场景为准。
+- 用最终表情包尺寸试播。检查跑步接地与循环接缝、跳跃落点、翻到倒置再回正的剪影，以及翻面期间的单枚左侧金扣和固定尾根。输出透明背景时保留 Alpha，动作外缘预留袖口、帽翼和尾尖的活动空间。
+
+09 动态参考来源与时码
+
+Q1uQ《英格丽德喵？》｜哔哩哔哩 BV1cD9MBfE9J
+https://www.bilibili.com/video/BV1cD9MBfE9J/
+本地原片｜动态参考/英格丽德喵-动作原片-BV1cD9MBfE9J.mp4（1280×720，约 24 fps，片长约 15 秒）
+动作设定图｜动态参考/英格丽德喵-动作设定图.png（透明背景，从上到下为低伏追跑、蓄力与起跳、空中翻身、落地与反弹、空中转向与收势）
+
+00:00.00–00:02.91｜正面等候。红点沿地面接近，角色盯住目标，期间眨眼；约 2.91 秒开始探身。
+00:03.00–00:04.16｜贴地追跑。低伏伸袖，收身再蹬，由正面转向侧面和背侧；墙脚前压低。
+00:04.16–00:04.58｜蹬地上墙。压低后由近侧袖口向前上方探，双脚离地、尾尖跟随，贴墙上行。
+00:04.66–00:05.24｜墙边翻身。斜身见脸 → 团身 → 约 4.99 秒倒置 → 过背面 → 恢复侧脸，靠近墙脚。
+00:05.24–00:07.82｜连续改向。经过门口与墙角，正面、侧面和背面快速交替；随后转身向沙发下降。
+00:07.82–00:08.32｜沙发落点。空中团身下落，约 7.99 秒压低贴住坐垫，侧倾回弹，再斜向离开沙发。
+00:08.32–00:09.57｜跨房间移动。绕过墙角转出侧脸，近地降低后再朝门口上弹，镜头随角色移动。
+00:09.57–片尾｜门口长拍。维持斜身追光，约 13.64 秒脸先靠近门边，转成近乎直立的侧面停住，尾尖随后落下。
+
+10 绘图提示词
+
+图稿由 Codex 内置 ImageGen 绘制。动作设定图以转面图为造型基准，重绘后再用固定列距排版。
+
+动作设定图
+Redraw exactly five poses per motion row from the pose reference, preserving tilt, facing, limb gesture, and silhouette. Match the clean flat colors and proportions of the character turnaround. Keep the rounded gray-blue hood with low cheek flaps, compact cape and short limbs, one left-temple gold clasp, and one short tail rooted at the lower back. Hide the clasp in the right-facing recovery profile showing the character's right side. Draw five isolated full-body poses in order in a single horizontal strip, with transparent gaps and true alpha around every pose. Remove the room, props, floor shadows, red light and lettering. Follow the stage order in section 08 for running, jumping, rolling, landing and rebounding, and turning and stopping.
 
 转面图
 Create a clean full-body character model sheet for later 2D sticker production, deriving the same original blue-hooded little mascot from the four supplied screenshots. Artwork only. Use the first input for the front silhouette and facial features, the second for the head opening in exact profile and the tail root and shape, the third for the back construction, the fourth for cheek locks and robe sleeves. Remove all rooms, environment, lighting, shadows, scene perspective and poses. Keep the source's endearing compressed squashy animal-like proportions, not a human wearing a wizard outfit. Draw FOUR clearly distinct orthographic MODEL VIEWS of the same neutral standing character in a 2×2 grid on solid clean white, with generous gutters: TOP LEFT straight-on front; TOP RIGHT front three-quarter turned 35 degrees, nose pointing to the left of the page so the visible gold temple button is visible; BOTTOM LEFT exact 90-degree side profile looking toward the left of the page, with one eye, one visible temple button, bottom edge of robe and complete tail silhouette; BOTTOM RIGHT exact symmetrical back facing away, no face or hair opening visible, same coat hem and centered rear tail root, tiny tail tuft subtly visible to the right. The four views are exactly the same height and body size and maintain the same anatomy. Use a square sheet 1536 by 1536 if possible. No letters, numbers, frame, lines, captions, headers, panels, graph marks, color swatches or floor. All four complete drawings centered in their own quadrant with clear white margins.
